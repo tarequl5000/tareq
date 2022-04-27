@@ -1,0 +1,37 @@
+.flag{
+    background: green;
+    height: 100px;
+    width: 250px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 3px 6px 22px rgba(0, 0, 0, .8);
+    
+
+}
+.red{
+    background: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    
+}
+.eig{
+    background: rgb(214, 202, 202);
+    height: 200px;
+    width: 250px;
+    border-radius: 50%;
+    text-align: center;
+    padding: 50px;
+    box-shadow: 3px 6px 20px rgba(0, 0, 0, .8);
+
+}
+.dim{
+    background: yellow;
+    height: 50%;
+    width: 50%;
+    display: inline-block;
+    border-radius: 50%;
+    padding: 40px;
+    box-shadow: 3px 6px 20px rgba(0, 0, 0, .8);
+}
